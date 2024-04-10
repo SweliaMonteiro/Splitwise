@@ -24,5 +24,5 @@ Implement a Splitwise Service using the Design Patterns and MVC model. Splitwise
    - Create a new Expense using the details provided input. For the given amount, create PaidBy and HadToPayBy UserExpense object.
 
 4. Settle Up User and Group
-- Generate a list of Transactions to settle up a given User if the User is valid.
-- Generate a list of Transactions to settle up a given Group if the Group is valid.
+   - Generate a list of Transactions to settle up a given User if the User is valid.
+   - Generate a list of Transactions to settle up a given Group if the Group is valid.
